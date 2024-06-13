@@ -8,7 +8,9 @@ Das öffentliches Repository "ST-ESA" wurde erfolgreich in GitHub erstellt.
 
 ## 2. Erstellung eines neuen Projekts
 
-Ich habe im Ordner "ST-ESA" einen neuen Unterordner "TradeBot" erstellt. In diesem Ordner ich eine README.md zum Projekt erstellt.
+Ich habe im Ordner "ST-ESA" zwei neue Unterordner "Screenshots" und "TradeBot" erstellt. In diesem Ordner ich eine README.md zum Projekt erstellt.
+
+![Unterordner](Screenshots/Unterordner.png)
 
 ## 3. Ausführen der Methoden commit, pull, push, add, status, diff, mv, rm
 
