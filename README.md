@@ -2,23 +2,31 @@
 
 ## 1. Erstellung eines Repositorys in GitHub
 
-    Das Repository "ST-ESA" wurde erfolgreich in GitHub erstellt.
+Das öffentliches Repository "ST-ESA" wurde erfolgreich in GitHub erstellt.
 
-    ![Text]()
+![Repository](Screenshots/Repository.png)
 
 ## 2. Erstellung eines neuen Projekts
 
-    Ich habe im Ordner "ST-ESA" einen Unterordner "TradeBot" erstellt. In diesem Ordner ich eine README-Datei zum Projekt erstellt.
+Ich habe im Ordner "ST-ESA" einen neuen Unterordner "TradeBot" erstellt. In diesem Ordner ich eine README.md zum Projekt erstellt.
 
 ## 3. Ausführen der Methoden commit, pull, push, add, status, diff, mv, rm
 
-    ![commit, pull, push, add, status](Screenshots/commit, pull, push, add, status.png)
+### commit, pull, push, add, status
 
-    ![diff](Screenshots/diff.png)
+![commit, pull, push, add, status](Screenshots/commit_pull_push_add_status.png)
 
-    ![mv](Screenshots/mv.png)
+### diff
 
-    ![rm](Screenshots/rm.png)
+![diff](Screenshots/diff.png)
+
+### mv
+
+![mv](Screenshots/mv.png)
+
+### rm
+
+![rm](Screenshots/rm.png)
 
 ## 4. Experimentieren mit Zeitreisen
 
