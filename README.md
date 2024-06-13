@@ -1,16 +1,16 @@
 # ST-ESA: DVC
 
-Tim Chmieletzki
+# Tim Chmieletzki
 
 ## 1. Erstellung eines Repositorys in GitHub
 
-Das öffentliches Repository "ST-ESA" wurde erfolgreich in GitHub erstellt.
+### Das öffentliches Repository "ST-ESA" wurde erfolgreich in GitHub erstellt.
 
 ![Repository](Screenshots/Repository.png)
 
 ## 2. Erstellung eines neuen Projekts
 
-Ich habe im Ordner "ST-ESA" zwei neue Unterordner "Screenshots" und "TradeBot" erstellt. In diesem Ordner ich eine README.md zum Projekt erstellt.
+### Ich habe im Ordner "ST-ESA" zwei neue Unterordner "Screenshots" und "TradeBot" erstellt. In diesem Ordner ich eine README.md zum Projekt erstellt.
 
 ![Unterordner](Screenshots/Unterordner.png)
 
@@ -49,3 +49,7 @@ Ich habe im Ordner "ST-ESA" zwei neue Unterordner "Screenshots" und "TradeBot" e
 ![Ausgabe4](Screenshots/Ausgabe4.png)
 
 ## 6. Erstellung eines Pull-Requests in GitHub
+
+### Der Pull-Request wurde erstellt und kann [hier](https://github.com/edlich/education/pull/504) eingesehen werden.
+
+### PR Nummer: #504
