@@ -34,8 +34,16 @@ Ich habe im Ordner "ST-ESA" zwei neue Unterordner "Screenshots" und "TradeBot" e
 
 ### Für das Zeitreisen habe ich mit git checkout und commit hashes gearbeitet, um das Projekt auf einen früheren Stand zu bringen.
 
+![Hashes](Screenshots/Hashes.png)
 ![Zeitreisen](Screenshots/Zeitreisen.png)
 
 ## 5. Erstellung von zwei Branches + Merge
+
+### Ich habe eine "TestBranch1" erstellt und in dieser die hello_world.py ausgebessert. Danach habe ich die main branch mit TestBranch1 gemerged.
+
+![Ausgabe1](Screenshots/Ausgabe1.png)
+![Ausgabe2](Screenshots/Ausgabe2.png)
+![Ausgabe3](Screenshots/Ausgabe3.png)
+![Ausgabe4](Screenshots/Ausgabe4.png)
 
 ## 6. Erstellung eines Pull-Requests in GitHub
