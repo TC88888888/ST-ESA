@@ -32,6 +32,10 @@ Ich habe im Ordner "ST-ESA" zwei neue Unterordner "Screenshots" und "TradeBot" e
 
 ## 4. Experimentieren mit Zeitreisen
 
+### Für das Zeitreisen habe ich mit git checkout und commit hashes gearbeitet, um das Projekt auf einen früheren Stand zu bringen.
+
+![Zeitreisen](Screenshots/Zeitreisen.png)
+
 ## 5. Erstellung von zwei Branches + Merge
 
 ## 6. Erstellung eines Pull-Requests in GitHub
