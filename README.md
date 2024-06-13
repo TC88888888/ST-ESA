@@ -1,5 +1,7 @@
 # ST-ESA: DVC
 
+Tim Chmieletzki
+
 ## 1. Erstellung eines Repositorys in GitHub
 
 Das öffentliches Repository "ST-ESA" wurde erfolgreich in GitHub erstellt.
