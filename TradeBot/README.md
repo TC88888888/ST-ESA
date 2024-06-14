@@ -1,6 +1,6 @@
 # TradeBot
 
-TradeBot ist eine Anwendung, die Nutzern ermöglicht, Kryptowährungen zu handeln. Es gibt drei Modi:
+TradeBot ist eine Anwendung, die es Nutzern ermöglicht, Kryptowährungen zu handeln. Es gibt drei Modi:
 
 1. **Manuelles Trading**: Nutzer können manuell Kryptowährungen kaufen und verkaufen.
 2. **Trading mit Hilfe einer KI**: Die KI bietet Vorschläge für Trades basierend auf Marktanalysen.
